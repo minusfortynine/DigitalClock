@@ -7,3 +7,5 @@ obj/
 *.cache
 *.csproj.DotSettings
 *.vsconfig
+Form1.cs
+Form1.Designer.cs
