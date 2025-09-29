@@ -1,0 +1,9 @@
+# .NET build outputs
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.csproj.DotSettings
+*.vsconfig
